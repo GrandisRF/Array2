@@ -1,8 +1,8 @@
-# Array
-##Modul 9 array
+# Array2
+##Modul 9 array2
 
 ###Screenshoot aplikasi
-![array](https://cloud.githubusercontent.com/assets/23449098/22404106/e5d0cd6a-e5de-11e6-8986-c9c7dcc84ec5.PNG)
+![array2](https://cloud.githubusercontent.com/assets/23449098/22404105/e5c98f32-e5de-11e6-83dc-156320c74c11.PNG)
 
 ###Identitas Diri
 #####Nama : Grandis Rufaidah
